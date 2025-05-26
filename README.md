@@ -61,11 +61,10 @@ This project was developed as part of the **Final Exam Flutter Project** for Bah
 - [`intl`](https://pub.dev/packages/intl) for timestamp formatting
 
 Install with:
-```bash
+
 flutter pub get
 
 
----
 
 🖼️ Screenshots
 
@@ -96,7 +95,7 @@ Search From the list of created notes
 
 
 
----
+
 
 🏁 Getting Started
 
