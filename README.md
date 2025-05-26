@@ -81,7 +81,7 @@ Displays list of notes with real-time search and timestamps
 Create or update your notes using a simple form
 
 <p align="center">
-  <img src="add_notes.jpg" width="400" alt="Home Screen"/>
+  <img src="note_edit.jpg" width="400" alt="Home Screen"/>
 </p>
 
 
